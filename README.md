@@ -32,4 +32,4 @@ Error Handling: Displays mistakes messages if the weather records cannot be fetc
 6. User Interaction
 The app updates in actual-time whilst a consumer enters a new metropolis, re-fetching statistics via the API and updating the show dynamically.
 This app combines responsive design, API interaction, and icon-based UI for a easy but useful climate display device.
-<img width="301" alt="WeatherX" src="https://github.com/user-attachments/assets/105cccbd-0c24-491a-bcf8-cd4077fda920 className="text-center">
+<img width="301" alt="WeatherX" src="https://github.com/user-attachments/assets/105cccbd-0c24-491a-bcf8-cd4077fda920 >
